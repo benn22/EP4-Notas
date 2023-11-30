@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913569889855",
+    "project_id": "ep4-notas-81464",
+    "storage_bucket": "ep4-notas-81464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913569889855:android:6b91f48bd99a88d51f028a",
+        "android_client_info": {
+          "package_name": "com.example.ep4rtdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjhcXUD-_P2kv3sxzw1iWVxFE4FT_3VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
